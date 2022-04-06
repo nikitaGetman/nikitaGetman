@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitaGetman&show_icons=true&count_private=true)
+<div align="center">
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=nikitaGetman&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Nikita's GitHub Trophies" /> 
+    <br /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=nikitaGetman&show_icons=true&hide_border=true&count_private=true" alt="Nikita's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=nikitaGetman.nikitaGetman" alt="visitors">
+</div>
