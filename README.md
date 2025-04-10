@@ -24,13 +24,13 @@
 
 💡 I work across the entire stack:
 
-Backend: Python (FastAPI), smart contracts (Solidity), real-time data processing
-Frontend: React / TypeScript, custom dashboards, UI libraries
-Infrastructure: Docker, AWS, CI/CD, observability (Prometheus, Grafana, OpenTelemetry)
-Data: ClickHouse, PostgreSQL, MongoDB, Redis, TimescaleDB
+**Backend**: Python (FastAPI), smart contracts (Solidity), real-time data processing <br/>
+**Frontend**: React / TypeScript, custom dashboards, UI libraries <br/>
+**Infrastructure**: Docker, AWS, CI/CD, observability (Prometheus, Grafana, OpenTelemetry) <br/>
+**Data**: ClickHouse, PostgreSQL, MongoDB, Redis, TimescaleDB <br/>
 
-🔐 I care about performance, clean architecture, and secure environments.
-🏗️ Comfortable building both trading systems and Web3 apps, from low-level logic to polished UIs.
+🔐 I care about __performance, clean architecture, and secure environments__. <br/>
+🏗️ Comfortable building both trading systems and Web3 apps, from low-level logic to polished UIs. <br/>
 📈 Always learning — currently diving deeper into ML and data science for applied use in product logic.
 
 # 💻 Tech Stack:
